@@ -27,6 +27,6 @@
         "@types/react-dom": "^18.2.7",
         "@vitejs/plugin-react": "^4.0.3",
         "vite": "^4.4.5",
-        "@typescript-eslint/parser": "^16.0.0"
+        "@typescript-eslint/parser": "20.9.0"
     }
 }
